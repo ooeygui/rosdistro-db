@@ -40,3 +40,7 @@ graphicsmagick:
   windows:
     vcpkg:
       packages: [graphicsmagick]
+mavlink:
+  windows:
+    vcpkg:
+      packages: [mavlink]
