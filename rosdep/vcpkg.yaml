@@ -44,3 +44,7 @@ mavlink:
   windows:
     vcpkg:
       packages: [mavlink]
+geographiclib-tools:
+  windows:
+    vcpkg:
+      packages: [geographiclib]
