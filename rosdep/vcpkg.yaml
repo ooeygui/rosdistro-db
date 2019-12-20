@@ -52,11 +52,3 @@ geographiclib-tools:
   windows:
     vcpkg:
       packages: [geographiclib]
-suitesparse:
-  windows:
-    vcpkg:
-      packages: [suitesparse]
-sdl2:
-  windows:
-    vcpkg:
-      packages: [sdl2]
